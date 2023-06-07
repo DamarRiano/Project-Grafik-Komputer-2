@@ -1,4 +1,4 @@
-# Project-Grafik-Komputer-2
+# Project Grafik Komputer 2
 Nama Anggota Kelompok :
 
 Ali Hasyimi                     (50420132) Kelas 3IA07
